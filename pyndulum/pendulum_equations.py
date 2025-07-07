@@ -38,6 +38,9 @@ def max_height(len: float, theta: float) -> float:
     """
     return len * np.cos(theta)
 
+### Formula
+
+
 
 def max_speed(len: float, theta: float) -> float:
     """
